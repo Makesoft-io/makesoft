@@ -1,2 +1,1 @@
-# makesoft
-# makesoft
+template for react components
